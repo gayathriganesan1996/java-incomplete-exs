@@ -1,0 +1,23 @@
+//Bootstrap Learning:
+    1.Container mRK
+    2.Container-fluid MRK
+    3.Row - mrk
+    4.Column - mrk
+    5.Float
+    6.position
+    7.model box
+    8.button
+    9.button group
+    10.diplay
+    11.form controls
+    12.px.py
+    13.navbar
+    cards
+    model
+    carousel
+    popover
+    scorrlpay
+    flex
+    form vali - mrk
+    grid system
+    colors -mark
